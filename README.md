@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/KwvrJpR/Mor-ve-Pembe-Renkli-Yay-nc-Twitch-Banner.png)
+
 <h1 align="center">Selam👋, ben Abdullah</h1>
 <h3 align="center">Juniour .Net Developer</h3>
 
