@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Abdks&icon=1&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me
-👋 I am a 19 year old software developer.<br>🔭 I have been improving myself in the .Net field since 2023.<br>👯 Reach me : Abdullahkus080@gmail.com<br>
+👋 I am a 20 year old software developer.<br>🔭 I have been improving myself in the .Net field since 2023.<br>👯 Reach me : Abdullahkus080@gmail.com<br>
 
 
 
